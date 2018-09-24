@@ -1,0 +1,19 @@
+name: BSOE Specific 
+type: theme
+description: 'A basic base for the BSOE themes.'
+package: 'Baskin School of Engineering'
+core: 8.x
+version: 1.0
+screenshot: logo.svg
+libraries:
+  - 'bsoe_specific/global-styling'
+base theme: bsoe_plain 
+regions:
+  secondary_menu: 'Secondary Menu'
+  header: 'Header, Logo and Site Name'
+  primary_menu: 'Primary Menu'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  breadcrumb: 'Breadcrumb'
+  content: 'Main Content'
+  footer: 'Main Footer, includes navigation'

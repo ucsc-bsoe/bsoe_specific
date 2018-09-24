@@ -1,0 +1,12 @@
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      styles.css: {}
+  js:
+    script.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.ui.tabs
+    - core/jquery.ui.accordion
+
