@@ -1,0 +1,28 @@
+.page-node-type-sf-page .node__content > .field--name-body {
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+.page-node-type-sf-page main {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.search-block-form {
+  min-width: 240px;
+  display: none;
+}
+
+@media (min-width: 900px) {
+  .search-block-form {
+    display: inline-block;
+  }
+}
+
+div {
+  //background: green;
+}
+
+#block-mainpagecontent > h2 {
+  display: none;
+}
