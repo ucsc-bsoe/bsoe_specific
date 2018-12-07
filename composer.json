@@ -1,8 +1,8 @@
 {
-  "name": "drupal/ucsc_macros",
-  "description": "UCSC Macros so people can use patterns to populate users.",
-  "type": "drupal-custom-module",
-  "homepage": "https://github.com/ucsc-bsoe/ucsc_macros",
+  "name": "drupal/bsoe_specific",
+  "description": "BSOE Subtheme for site specific css",
+  "type": "drupal-custom-theme",
+  "homepage": "https://github.com/ucsc-bsoe/bsoe_specific",
   "authors": [
     {
       "name": "Kristin Bradham",
